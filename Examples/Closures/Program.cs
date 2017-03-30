@@ -15,6 +15,8 @@ namespace Closures
             var funcs = new List<Func<int, int>>(); //List<Func<int>>();
             for (int i = 0; i < 3; i++)
             {
+
+
                 int tmp = i;
                 //funcs.Add(() => i);
                 funcs.Add((x) => tmp+1);
