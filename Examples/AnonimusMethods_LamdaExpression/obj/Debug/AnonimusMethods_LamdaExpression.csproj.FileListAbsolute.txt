@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\AnonimusMethods_LamdaExpression\bin\Debug\AnonimusMethods_LamdaExpression.exe.config
+C:\Git\Examples\Examples\AnonimusMethods_LamdaExpression\bin\Debug\AnonimusMethods_LamdaExpression.exe
+C:\Git\Examples\Examples\AnonimusMethods_LamdaExpression\bin\Debug\AnonimusMethods_LamdaExpression.pdb
+C:\Git\Examples\Examples\AnonimusMethods_LamdaExpression\obj\Debug\AnonimusMethods_LamdaExpression.exe
+C:\Git\Examples\Examples\AnonimusMethods_LamdaExpression\obj\Debug\AnonimusMethods_LamdaExpression.pdb
