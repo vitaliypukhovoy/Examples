@@ -10,10 +10,11 @@ namespace Events
     {
         static void Main(string[] args)
         {
-
             var tower = new ClockTower();
             var John = new Person("John", tower);
+            var Mickle = new Person("Mickle", tower);
             tower.ChimeFivePM();
+            tower.ChimeSixAM();
         }
     }    
     public class Person
@@ -28,7 +29,7 @@ namespace Events
             _tower.Chime += () => Console.WriteLine("{0} head the clock chime",_name);
         }
         void tower_Chime()
-        {
+        {           
         }
     }
 
