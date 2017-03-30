@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\Closures\bin\Debug\Closures.exe.config
+C:\Git\Examples\Examples\Closures\bin\Debug\Closures.exe
+C:\Git\Examples\Examples\Closures\bin\Debug\Closures.pdb
+C:\Git\Examples\Examples\Closures\obj\Debug\Closures.csprojResolveAssemblyReference.cache
+C:\Git\Examples\Examples\Closures\obj\Debug\Closures.exe
+C:\Git\Examples\Examples\Closures\obj\Debug\Closures.pdb

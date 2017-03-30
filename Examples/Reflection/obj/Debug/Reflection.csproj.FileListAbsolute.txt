@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\Reflection\bin\Debug\Reflection.exe.config
+C:\Git\Examples\Examples\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+C:\Git\Examples\Examples\Reflection\bin\Debug\Reflection.exe
+C:\Git\Examples\Examples\Reflection\bin\Debug\Reflection.pdb
+C:\Git\Examples\Examples\Reflection\obj\Debug\Reflection.exe
+C:\Git\Examples\Examples\Reflection\obj\Debug\Reflection.pdb

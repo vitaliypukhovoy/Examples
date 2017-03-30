@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\Ref_for_Object\bin\Debug\Ref_for_Object.exe.config
+C:\Git\Examples\Examples\Ref_for_Object\bin\Debug\Ref_for_Object.exe
+C:\Git\Examples\Examples\Ref_for_Object\bin\Debug\Ref_for_Object.pdb
+C:\Git\Examples\Examples\Ref_for_Object\obj\Debug\Ref_for_Object.exe
+C:\Git\Examples\Examples\Ref_for_Object\obj\Debug\Ref_for_Object.pdb
+C:\Git\Examples\Examples\Ref_for_Object\obj\Debug\Ref_for_Object.csprojResolveAssemblyReference.cache

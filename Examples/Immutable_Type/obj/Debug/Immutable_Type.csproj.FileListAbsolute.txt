@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\Immutable_Type\bin\Debug\Immutable_Type.exe.config
+C:\Git\Examples\Examples\Immutable_Type\bin\Debug\Immutable_Type.exe
+C:\Git\Examples\Examples\Immutable_Type\bin\Debug\Immutable_Type.pdb
+C:\Git\Examples\Examples\Immutable_Type\obj\Debug\Immutable_Type.exe
+C:\Git\Examples\Examples\Immutable_Type\obj\Debug\Immutable_Type.pdb
+C:\Git\Examples\Examples\Immutable_Type\obj\Debug\Immutable_Type.csprojResolveAssemblyReference.cache
