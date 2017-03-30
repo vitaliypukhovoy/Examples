@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\Events\bin\Debug\Events.exe.config
+C:\Git\Examples\Examples\Events\bin\Debug\Events.exe
+C:\Git\Examples\Examples\Events\bin\Debug\Events.pdb
+C:\Git\Examples\Examples\Events\obj\Debug\Events.exe
+C:\Git\Examples\Examples\Events\obj\Debug\Events.pdb

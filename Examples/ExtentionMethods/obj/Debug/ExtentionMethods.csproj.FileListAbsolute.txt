@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\ExtentionMethods\bin\Debug\ExtentionMethods.exe.config
+C:\Git\Examples\Examples\ExtentionMethods\bin\Debug\ExtentionMethods.exe
+C:\Git\Examples\Examples\ExtentionMethods\bin\Debug\ExtentionMethods.pdb
+C:\Git\Examples\Examples\ExtentionMethods\obj\Debug\ExtentionMethods.exe
+C:\Git\Examples\Examples\ExtentionMethods\obj\Debug\ExtentionMethods.pdb

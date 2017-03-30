@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\Arrays_List\bin\Debug\Arrays_List.exe.config
+C:\Git\Examples\Examples\Arrays_List\bin\Debug\Arrays_List.exe
+C:\Git\Examples\Examples\Arrays_List\bin\Debug\Arrays_List.pdb
+C:\Git\Examples\Examples\Arrays_List\obj\Debug\Arrays_List.csprojResolveAssemblyReference.cache
+C:\Git\Examples\Examples\Arrays_List\obj\Debug\Arrays_List.exe
+C:\Git\Examples\Examples\Arrays_List\obj\Debug\Arrays_List.pdb
