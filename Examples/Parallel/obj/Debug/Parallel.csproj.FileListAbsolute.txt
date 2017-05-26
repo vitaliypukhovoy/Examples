@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\Parallel\obj\Debug\Parallel.csprojResolveAssemblyReference.cache
+C:\Git\Examples\Examples\Parallel\bin\Debug\Parallel.exe.config
+C:\Git\Examples\Examples\Parallel\bin\Debug\Parallel.exe
+C:\Git\Examples\Examples\Parallel\bin\Debug\Parallel.pdb
+C:\Git\Examples\Examples\Parallel\obj\Debug\Parallel.exe
+C:\Git\Examples\Examples\Parallel\obj\Debug\Parallel.pdb

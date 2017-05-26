@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\Multiple_inheritance\bin\Debug\Multiple_inheritance.exe.config
+C:\Git\Examples\Examples\Multiple_inheritance\bin\Debug\Multiple_inheritance.exe
+C:\Git\Examples\Examples\Multiple_inheritance\bin\Debug\Multiple_inheritance.pdb
+C:\Git\Examples\Examples\Multiple_inheritance\obj\Debug\Multiple_inheritance.exe
+C:\Git\Examples\Examples\Multiple_inheritance\obj\Debug\Multiple_inheritance.pdb

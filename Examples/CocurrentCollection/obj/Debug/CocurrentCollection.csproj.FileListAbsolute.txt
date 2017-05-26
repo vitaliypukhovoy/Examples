@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\CocurrentCollection\bin\Debug\CocurrentCollection.exe.config
+C:\Git\Examples\Examples\CocurrentCollection\bin\Debug\CocurrentCollection.exe
+C:\Git\Examples\Examples\CocurrentCollection\bin\Debug\CocurrentCollection.pdb
+C:\Git\Examples\Examples\CocurrentCollection\obj\Debug\CocurrentCollection.exe
+C:\Git\Examples\Examples\CocurrentCollection\obj\Debug\CocurrentCollection.pdb
+C:\Git\Examples\Examples\CocurrentCollection\obj\Debug\CocurrentCollection.csprojResolveAssemblyReference.cache

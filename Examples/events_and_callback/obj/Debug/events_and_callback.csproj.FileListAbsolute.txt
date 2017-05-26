@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\events_and_callback\bin\Debug\events_and_callback.exe.config
+C:\Git\Examples\Examples\events_and_callback\bin\Debug\events_and_callback.exe
+C:\Git\Examples\Examples\events_and_callback\bin\Debug\events_and_callback.pdb
+C:\Git\Examples\Examples\events_and_callback\obj\Debug\events_and_callback.csprojResolveAssemblyReference.cache
+C:\Git\Examples\Examples\events_and_callback\obj\Debug\events_and_callback.exe
+C:\Git\Examples\Examples\events_and_callback\obj\Debug\events_and_callback.pdb

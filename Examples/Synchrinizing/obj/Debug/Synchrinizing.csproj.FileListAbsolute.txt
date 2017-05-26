@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\Synchrinizing\bin\Debug\Synchrinizing.exe.config
+C:\Git\Examples\Examples\Synchrinizing\bin\Debug\Synchrinizing.exe
+C:\Git\Examples\Examples\Synchrinizing\bin\Debug\Synchrinizing.pdb
+C:\Git\Examples\Examples\Synchrinizing\obj\Debug\Synchrinizing.csprojResolveAssemblyReference.cache
+C:\Git\Examples\Examples\Synchrinizing\obj\Debug\Synchrinizing.exe
+C:\Git\Examples\Examples\Synchrinizing\obj\Debug\Synchrinizing.pdb

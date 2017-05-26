@@ -1,0 +1,6 @@
+C:\Git\Examples\Examples\Using_events\bin\Debug\Using_events.exe.config
+C:\Git\Examples\Examples\Using_events\bin\Debug\Using_events.exe
+C:\Git\Examples\Examples\Using_events\bin\Debug\Using_events.pdb
+C:\Git\Examples\Examples\Using_events\obj\Debug\Using_events.csprojResolveAssemblyReference.cache
+C:\Git\Examples\Examples\Using_events\obj\Debug\Using_events.exe
+C:\Git\Examples\Examples\Using_events\obj\Debug\Using_events.pdb

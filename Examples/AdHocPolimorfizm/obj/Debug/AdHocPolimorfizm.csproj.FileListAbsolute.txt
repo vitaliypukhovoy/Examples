@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\AdHocPolimorfizm\bin\Debug\AdHocPolimorfizm.exe.config
+C:\Git\Examples\Examples\AdHocPolimorfizm\bin\Debug\AdHocPolimorfizm.exe
+C:\Git\Examples\Examples\AdHocPolimorfizm\bin\Debug\AdHocPolimorfizm.pdb
+C:\Git\Examples\Examples\AdHocPolimorfizm\obj\Debug\AdHocPolimorfizm.exe
+C:\Git\Examples\Examples\AdHocPolimorfizm\obj\Debug\AdHocPolimorfizm.pdb

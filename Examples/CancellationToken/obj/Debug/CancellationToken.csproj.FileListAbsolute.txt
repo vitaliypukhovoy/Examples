@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\CancellationToken\bin\Debug\CancellationToken.exe.config
+C:\Git\Examples\Examples\CancellationToken\bin\Debug\CancellationToken.exe
+C:\Git\Examples\Examples\CancellationToken\bin\Debug\CancellationToken.pdb
+C:\Git\Examples\Examples\CancellationToken\obj\Debug\CancellationToken.exe
+C:\Git\Examples\Examples\CancellationToken\obj\Debug\CancellationToken.pdb

@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Git\Examples\Examples\NullableTypes\bin\Debug\NullableTypes.exe
+C:\Git\Examples\Examples\NullableTypes\bin\Debug\NullableTypes.pdb
+C:\Git\Examples\Examples\NullableTypes\obj\Debug\NullableTypes.exe
+C:\Git\Examples\Examples\NullableTypes\obj\Debug\NullableTypes.pdb

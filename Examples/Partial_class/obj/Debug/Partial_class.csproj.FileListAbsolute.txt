@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\Partial_class\bin\Debug\Partial_class.exe.config
+C:\Git\Examples\Examples\Partial_class\bin\Debug\Partial_class.exe
+C:\Git\Examples\Examples\Partial_class\bin\Debug\Partial_class.pdb
+C:\Git\Examples\Examples\Partial_class\obj\Debug\Partial_class.exe
+C:\Git\Examples\Examples\Partial_class\obj\Debug\Partial_class.pdb

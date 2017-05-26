@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\Volatile\bin\Debug\Volatile.exe.config
+C:\Git\Examples\Examples\Volatile\bin\Debug\Volatile.exe
+C:\Git\Examples\Examples\Volatile\bin\Debug\Volatile.pdb
+C:\Git\Examples\Examples\Volatile\obj\Debug\Volatile.exe
+C:\Git\Examples\Examples\Volatile\obj\Debug\Volatile.pdb

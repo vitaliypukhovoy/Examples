@@ -19,8 +19,7 @@ namespace Delegate
             op += Triple;
             op += Triple;
             op -= Triple;
-            op -= Double;
-
+            op -= Double;          
             ExcuteOperation(2,op);
         }
         static void Double(int num)
@@ -35,7 +34,15 @@ namespace Delegate
 
         static void ExcuteOperation(int num, Operation op)
         {
-            op(num);             
+            foreach (var i in op.GetInvocationList())
+                try
+                {
+                    op(num);
+                }
+                  catch(Exception ex)
+                {
+                    Console.WriteLine(string.Format("Exception in {0}: {1}", op.Method.Name, ex.Message));
+                }
         }
     }
 
