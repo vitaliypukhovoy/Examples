@@ -3,4 +3,3 @@ C:\Git\Examples\Examples\Delegate\bin\Debug\Delegate.exe
 C:\Git\Examples\Examples\Delegate\bin\Debug\Delegate.pdb
 C:\Git\Examples\Examples\Delegate\obj\Debug\Delegate.exe
 C:\Git\Examples\Examples\Delegate\obj\Debug\Delegate.pdb
-C:\Git\Examples\Examples\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache

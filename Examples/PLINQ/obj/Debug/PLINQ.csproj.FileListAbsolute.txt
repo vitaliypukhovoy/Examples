@@ -1,6 +1,5 @@
 C:\Git\Examples\Examples\PLINQ\bin\Debug\PLINQ.exe.config
 C:\Git\Examples\Examples\PLINQ\bin\Debug\PLINQ.exe
 C:\Git\Examples\Examples\PLINQ\bin\Debug\PLINQ.pdb
-C:\Git\Examples\Examples\PLINQ\obj\Debug\PLINQ.csprojResolveAssemblyReference.cache
 C:\Git\Examples\Examples\PLINQ\obj\Debug\PLINQ.exe
 C:\Git\Examples\Examples\PLINQ\obj\Debug\PLINQ.pdb

@@ -1,6 +1,5 @@
 C:\Git\Examples\Examples\Boolean_Expression\bin\Debug\Boolean_Expression.exe.config
 C:\Git\Examples\Examples\Boolean_Expression\bin\Debug\Boolean_Expression.exe
 C:\Git\Examples\Examples\Boolean_Expression\bin\Debug\Boolean_Expression.pdb
-C:\Git\Examples\Examples\Boolean_Expression\obj\Debug\Boolean_Expression.csprojResolveAssemblyReference.cache
 C:\Git\Examples\Examples\Boolean_Expression\obj\Debug\Boolean_Expression.exe
 C:\Git\Examples\Examples\Boolean_Expression\obj\Debug\Boolean_Expression.pdb

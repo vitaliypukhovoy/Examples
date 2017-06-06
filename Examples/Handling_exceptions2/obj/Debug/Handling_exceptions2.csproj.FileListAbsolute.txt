@@ -1,6 +1,5 @@
 C:\Git\Examples\Examples\Handling_exceptions2\bin\Debug\Handling_exceptions2.exe.config
 C:\Git\Examples\Examples\Handling_exceptions2\bin\Debug\Handling_exceptions2.exe
 C:\Git\Examples\Examples\Handling_exceptions2\bin\Debug\Handling_exceptions2.pdb
-C:\Git\Examples\Examples\Handling_exceptions2\obj\Debug\Handling_exceptions2.csprojResolveAssemblyReference.cache
 C:\Git\Examples\Examples\Handling_exceptions2\obj\Debug\Handling_exceptions2.exe
 C:\Git\Examples\Examples\Handling_exceptions2\obj\Debug\Handling_exceptions2.pdb
