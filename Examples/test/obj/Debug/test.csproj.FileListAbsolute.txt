@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\test\bin\Debug\test.exe.config
+C:\Git\Examples\Examples\test\bin\Debug\test.exe
+C:\Git\Examples\Examples\test\bin\Debug\test.pdb
+C:\Git\Examples\Examples\test\obj\Debug\test.exe
+C:\Git\Examples\Examples\test\obj\Debug\test.pdb
