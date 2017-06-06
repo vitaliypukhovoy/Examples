@@ -1,0 +1,12 @@
+C:\Git\Examples\Examples\EF1\bin\Debug\EF1.exe.config
+C:\Git\Examples\Examples\EF1\bin\Debug\EF1.exe
+C:\Git\Examples\Examples\EF1\bin\Debug\EF1.pdb
+C:\Git\Examples\Examples\EF1\bin\Debug\EntityFramework.dll
+C:\Git\Examples\Examples\EF1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\Examples\Examples\EF1\bin\Debug\EntityFramework.xml
+C:\Git\Examples\Examples\EF1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\Examples\Examples\EF1\obj\Debug\EF1.exe
+C:\Git\Examples\Examples\EF1\obj\Debug\EF1.pdb
+C:\Git\Examples\Examples\EF1\bin\Debug\Data\CarDB.mdf
+C:\Git\Examples\Examples\EF1\bin\Debug\Data\CarDB_log.ldf
+C:\Git\Examples\Examples\EF1\obj\Debug\EF1.csprojResolveAssemblyReference.cache
