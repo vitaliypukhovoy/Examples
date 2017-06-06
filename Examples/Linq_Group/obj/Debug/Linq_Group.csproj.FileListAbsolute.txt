@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\Linq_Group\bin\Debug\Linq_Group.exe.config
+C:\Git\Examples\Examples\Linq_Group\bin\Debug\Linq_Group.exe
+C:\Git\Examples\Examples\Linq_Group\bin\Debug\Linq_Group.pdb
+C:\Git\Examples\Examples\Linq_Group\obj\Debug\Linq_Group.exe
+C:\Git\Examples\Examples\Linq_Group\obj\Debug\Linq_Group.pdb

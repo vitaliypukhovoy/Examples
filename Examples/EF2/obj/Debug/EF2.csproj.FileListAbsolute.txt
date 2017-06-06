@@ -1,0 +1,12 @@
+C:\Git\Examples\Examples\EF2\bin\Debug\EF2.exe.config
+C:\Git\Examples\Examples\EF2\bin\Debug\Data\exampleOneToMany.mdf
+C:\Git\Examples\Examples\EF2\bin\Debug\Data\exampleOneToMany_log.ldf
+C:\Git\Examples\Examples\EF2\bin\Debug\EF2.exe
+C:\Git\Examples\Examples\EF2\bin\Debug\EF2.pdb
+C:\Git\Examples\Examples\EF2\bin\Debug\EntityFramework.dll
+C:\Git\Examples\Examples\EF2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\Examples\Examples\EF2\bin\Debug\EntityFramework.xml
+C:\Git\Examples\Examples\EF2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\Examples\Examples\EF2\obj\Debug\EF2.csprojResolveAssemblyReference.cache
+C:\Git\Examples\Examples\EF2\obj\Debug\EF2.exe
+C:\Git\Examples\Examples\EF2\obj\Debug\EF2.pdb
