@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternsNet\DesignPatternsNet\bin\Debug\DesignPatternsNet.dll
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternsNet\DesignPatternsNet\bin\Debug\DesignPatternsNet.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternsNet\DesignPatternsNet\obj\Debug\DesignPatternsNet.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternsNet\DesignPatternsNet\obj\Debug\DesignPatternsNet.dll
+c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternsNet\DesignPatternsNet\obj\Debug\DesignPatternsNet.pdb
