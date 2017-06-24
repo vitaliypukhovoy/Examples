@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Group", "Linq_Group\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{B755CBA1-20C3-4EF9-87C0-BB084CE2A1B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority50PerItemOfArray", "Majority50PerItemOfArray\Majority50PerItemOfArray.csproj", "{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{B755CBA1-20C3-4EF9-87C0-BB084CE2A1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B755CBA1-20C3-4EF9-87C0-BB084CE2A1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B755CBA1-20C3-4EF9-87C0-BB084CE2A1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

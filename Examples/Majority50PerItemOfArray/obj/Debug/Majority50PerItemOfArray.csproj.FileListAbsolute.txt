@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\Majority50PerItemOfArray\bin\Debug\Majority50PerItemOfArray.exe.config
+C:\Git\Examples\Examples\Majority50PerItemOfArray\bin\Debug\Majority50PerItemOfArray.exe
+C:\Git\Examples\Examples\Majority50PerItemOfArray\bin\Debug\Majority50PerItemOfArray.pdb
+C:\Git\Examples\Examples\Majority50PerItemOfArray\obj\Debug\Majority50PerItemOfArray.exe
+C:\Git\Examples\Examples\Majority50PerItemOfArray\obj\Debug\Majority50PerItemOfArray.pdb
