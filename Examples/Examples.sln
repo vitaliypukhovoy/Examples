@@ -69,7 +69,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Group", "Linq_Group\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{B755CBA1-20C3-4EF9-87C0-BB084CE2A1B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority50PerItemOfArray", "Majority50PerItemOfArray\Majority50PerItemOfArray.csproj", "{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority50PerentItemOfArray", "Majority50PerItemOfArray\Majority50PerentItemOfArray.csproj", "{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

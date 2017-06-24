@@ -13,21 +13,23 @@ namespace Majority50PerItemOfArray
         static void Main(string[] args)
         {
 
-            var arr =  new int [] {1,2,2,3,2,6,8,9,2,2,2,2,3,4,5};
-            
+            var arr =  new int [] {1,2,2,3,2,6,8,9,2,2,2,2,3,4,5};            
             var half = arr.Length/2;
-            int val;
             var dic = new Dictionary<int, int>();            
             foreach(var i in arr)
             {
-                if (dic.ContainsKey(i) && dic.Max(k => k.Value)<= half)
+                if (dic.ContainsKey(i))
                 { 
-                int newValue = dic[i]+1;
-                AddOrUpdate(dic, i, newValue);                
+                int newValue = dic[i]++;
+                //AddOrUpdate(dic, i, newValue);                
+                    //if (dic.Max(k => k.Value)>= half)
+                    if(dic[i] >= half)
+                    break;
                 }
-                else if (!dic.TryGetValue(i, out val))
+                else 
                 {
-                    AddOrUpdate(dic, i, 1); 
+                    dic.Add(i, 1);
+                    //AddOrUpdate(dic, i, 1); 
                 }
             }
                 Console.WriteLine(dic.SingleOrDefault(i => i.Value == dic.Max(k => k.Value)).Key);
