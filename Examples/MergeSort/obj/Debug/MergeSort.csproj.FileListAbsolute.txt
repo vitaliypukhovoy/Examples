@@ -1,0 +1,5 @@
+C:\Git\Examples\Examples\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Git\Examples\Examples\MergeSort\bin\Debug\MergeSort.exe
+C:\Git\Examples\Examples\MergeSort\bin\Debug\MergeSort.pdb
+C:\Git\Examples\Examples\MergeSort\obj\Debug\MergeSort.exe
+C:\Git\Examples\Examples\MergeSort\obj\Debug\MergeSort.pdb

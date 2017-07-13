@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority50PerentItemOfArray", "Majority50PerItemOfArray\Majority50PerentItemOfArray.csproj", "{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{0F1ED6F8-291C-4290-8302-D324D3B6E0F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C520D47-49D7-413B-9A37-CA4DF7B92BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1ED6F8-291C-4290-8302-D324D3B6E0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1ED6F8-291C-4290-8302-D324D3B6E0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1ED6F8-291C-4290-8302-D324D3B6E0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1ED6F8-291C-4290-8302-D324D3B6E0F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
