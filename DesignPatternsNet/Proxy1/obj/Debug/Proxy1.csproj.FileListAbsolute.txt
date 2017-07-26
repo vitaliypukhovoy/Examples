@@ -1,0 +1,6 @@
+C:\Git\Examples\DesignPatternsNet\Proxy1\bin\Debug\Proxy1.exe.config
+C:\Git\Examples\DesignPatternsNet\Proxy1\bin\Debug\Proxy1.exe
+C:\Git\Examples\DesignPatternsNet\Proxy1\bin\Debug\Proxy1.pdb
+C:\Git\Examples\DesignPatternsNet\Proxy1\obj\Debug\Proxy1.exe
+C:\Git\Examples\DesignPatternsNet\Proxy1\obj\Debug\Proxy1.pdb
+C:\Git\Examples\DesignPatternsNet\Proxy1\obj\Debug\Proxy1.csprojResolveAssemblyReference.cache

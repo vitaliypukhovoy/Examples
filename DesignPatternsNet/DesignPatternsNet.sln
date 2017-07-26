@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples1", "SingletonExamples1\SingletonExamples1.csproj", "{72A0C8AD-9865-4D15-952F-ACD03D7F245A}"
 EndProject
@@ -10,6 +10,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples3", "SingletonExamples3\SingletonExamples3.csproj", "{FE569917-F808-4D1D-A135-4140D2969A78}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples4", "SingletonExamples4\SingletonExamples4.csproj", "{EEAA1184-BFE9-4E9D-8A08-5C95D40FC1AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator1", "Decorator1\Decorator1.csproj", "{4E6F5B01-8EFA-4BB0-97C6-872CB9CCF529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter1", "Adapter1\Adapter1.csproj", "{69997395-A80F-4BC8-AA99-CF0FFB870AA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy1", "Proxy1\Proxy1.csproj", "{A947E3FF-B39A-4EF3-98D2-2F80589BDA48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge1", "Bridge1\Bridge1.csproj", "{A51C3ECA-C216-43F0-9C72-D0273D0D1462}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{EEAA1184-BFE9-4E9D-8A08-5C95D40FC1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEAA1184-BFE9-4E9D-8A08-5C95D40FC1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEAA1184-BFE9-4E9D-8A08-5C95D40FC1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6F5B01-8EFA-4BB0-97C6-872CB9CCF529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6F5B01-8EFA-4BB0-97C6-872CB9CCF529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6F5B01-8EFA-4BB0-97C6-872CB9CCF529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6F5B01-8EFA-4BB0-97C6-872CB9CCF529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69997395-A80F-4BC8-AA99-CF0FFB870AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69997395-A80F-4BC8-AA99-CF0FFB870AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69997395-A80F-4BC8-AA99-CF0FFB870AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69997395-A80F-4BC8-AA99-CF0FFB870AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A947E3FF-B39A-4EF3-98D2-2F80589BDA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A947E3FF-B39A-4EF3-98D2-2F80589BDA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A947E3FF-B39A-4EF3-98D2-2F80589BDA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A947E3FF-B39A-4EF3-98D2-2F80589BDA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51C3ECA-C216-43F0-9C72-D0273D0D1462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51C3ECA-C216-43F0-9C72-D0273D0D1462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51C3ECA-C216-43F0-9C72-D0273D0D1462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51C3ECA-C216-43F0-9C72-D0273D0D1462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

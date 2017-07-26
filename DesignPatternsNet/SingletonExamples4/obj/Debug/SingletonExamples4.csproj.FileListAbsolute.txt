@@ -4,3 +4,9 @@ c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternsNet\S
 c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternsNet\SingletonExamples4\obj\Debug\SingletonExamples4.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternsNet\SingletonExamples4\obj\Debug\SingletonExamples4.exe
 c:\users\administrator\documents\visual studio 2015\Projects\DesignPatternsNet\SingletonExamples4\obj\Debug\SingletonExamples4.pdb
+C:\Git\Examples\DesignPatternsNet\SingletonExamples4\bin\Debug\SingletonExamples4.exe.config
+C:\Git\Examples\DesignPatternsNet\SingletonExamples4\bin\Debug\SingletonExamples4.exe
+C:\Git\Examples\DesignPatternsNet\SingletonExamples4\bin\Debug\SingletonExamples4.pdb
+C:\Git\Examples\DesignPatternsNet\SingletonExamples4\obj\Debug\SingletonExamples4.csprojResolveAssemblyReference.cache
+C:\Git\Examples\DesignPatternsNet\SingletonExamples4\obj\Debug\SingletonExamples4.exe
+C:\Git\Examples\DesignPatternsNet\SingletonExamples4\obj\Debug\SingletonExamples4.pdb

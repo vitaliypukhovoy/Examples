@@ -1,0 +1,6 @@
+C:\Git\Examples\DesignPatternsNet\Adapter1\bin\Debug\Adapter1.exe.config
+C:\Git\Examples\DesignPatternsNet\Adapter1\bin\Debug\Adapter1.exe
+C:\Git\Examples\DesignPatternsNet\Adapter1\bin\Debug\Adapter1.pdb
+C:\Git\Examples\DesignPatternsNet\Adapter1\obj\Debug\Adapter1.csprojResolveAssemblyReference.cache
+C:\Git\Examples\DesignPatternsNet\Adapter1\obj\Debug\Adapter1.exe
+C:\Git\Examples\DesignPatternsNet\Adapter1\obj\Debug\Adapter1.pdb

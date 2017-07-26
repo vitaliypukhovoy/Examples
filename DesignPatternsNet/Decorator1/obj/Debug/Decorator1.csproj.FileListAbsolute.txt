@@ -1,0 +1,6 @@
+C:\Git\Examples\DesignPatternsNet\Decorator1\bin\Debug\Decorator1.exe.config
+C:\Git\Examples\DesignPatternsNet\Decorator1\bin\Debug\Decorator1.exe
+C:\Git\Examples\DesignPatternsNet\Decorator1\bin\Debug\Decorator1.pdb
+C:\Git\Examples\DesignPatternsNet\Decorator1\obj\Debug\Decorator1.exe
+C:\Git\Examples\DesignPatternsNet\Decorator1\obj\Debug\Decorator1.pdb
+C:\Git\Examples\DesignPatternsNet\Decorator1\obj\Debug\Decorator1.csprojResolveAssemblyReference.cache

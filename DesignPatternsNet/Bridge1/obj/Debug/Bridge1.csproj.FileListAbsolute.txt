@@ -1,0 +1,5 @@
+C:\Git\Examples\DesignPatternsNet\Bridge1\bin\Debug\Bridge1.exe.config
+C:\Git\Examples\DesignPatternsNet\Bridge1\bin\Debug\Bridge1.exe
+C:\Git\Examples\DesignPatternsNet\Bridge1\bin\Debug\Bridge1.pdb
+C:\Git\Examples\DesignPatternsNet\Bridge1\obj\Debug\Bridge1.exe
+C:\Git\Examples\DesignPatternsNet\Bridge1\obj\Debug\Bridge1.pdb
