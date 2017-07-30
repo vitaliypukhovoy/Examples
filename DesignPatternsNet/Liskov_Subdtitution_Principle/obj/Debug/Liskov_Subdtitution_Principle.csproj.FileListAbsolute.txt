@@ -1,0 +1,1 @@
+C:\Git\Examples\DesignPatternsNet\Liskov_Subdtitution_Principle\bin\Debug\Liskov_Subdtitution_Principle.exe.config

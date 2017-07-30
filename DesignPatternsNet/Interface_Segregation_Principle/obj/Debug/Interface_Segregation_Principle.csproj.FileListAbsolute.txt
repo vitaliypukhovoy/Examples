@@ -1,0 +1,1 @@
+C:\Git\Examples\DesignPatternsNet\Interface_Segregation_Principle\bin\Debug\Interface_Segregation_Principle.exe.config

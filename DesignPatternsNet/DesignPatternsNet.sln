@@ -19,6 +19,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy1", "Proxy1\Proxy1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge1", "Bridge1\Bridge1.csproj", "{A51C3ECA-C216-43F0-9C72-D0273D0D1462}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{052E67BF-7E36-47A2-8932-A6EDAE6F63A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Responsibility_Principle", "Single_Responsibility_Principle\Single_Responsibility_Principle.csproj", "{B7C7DF79-559B-4B06-95FD-CA37B8063002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open_Closed_Principle", "Open_Closed_Principle\Open_Closed_Principle.csproj", "{12CA792A-98AD-4A61-A7AA-58B0E5902567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov_Subdtitution_Principle", "Liskov_Subdtitution_Principle\Liskov_Subdtitution_Principle.csproj", "{B6555048-DF8D-4FC9-A106-6ABE663E7556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Segregation_Principle", "Interface_Segregation_Principle\Interface_Segregation_Principle.csproj", "{E3D7BC0A-994D-40BA-A819-803C4E9916F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_Inversion_Principle", "Dependency_Inversion_Principle\Dependency_Inversion_Principle.csproj", "{8F370A1F-4682-4372-9FDC-75887C54F3D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,8 +69,35 @@ Global
 		{A51C3ECA-C216-43F0-9C72-D0273D0D1462}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A51C3ECA-C216-43F0-9C72-D0273D0D1462}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A51C3ECA-C216-43F0-9C72-D0273D0D1462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C7DF79-559B-4B06-95FD-CA37B8063002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C7DF79-559B-4B06-95FD-CA37B8063002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C7DF79-559B-4B06-95FD-CA37B8063002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C7DF79-559B-4B06-95FD-CA37B8063002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CA792A-98AD-4A61-A7AA-58B0E5902567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CA792A-98AD-4A61-A7AA-58B0E5902567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CA792A-98AD-4A61-A7AA-58B0E5902567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CA792A-98AD-4A61-A7AA-58B0E5902567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6555048-DF8D-4FC9-A106-6ABE663E7556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6555048-DF8D-4FC9-A106-6ABE663E7556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6555048-DF8D-4FC9-A106-6ABE663E7556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6555048-DF8D-4FC9-A106-6ABE663E7556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D7BC0A-994D-40BA-A819-803C4E9916F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D7BC0A-994D-40BA-A819-803C4E9916F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D7BC0A-994D-40BA-A819-803C4E9916F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D7BC0A-994D-40BA-A819-803C4E9916F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F370A1F-4682-4372-9FDC-75887C54F3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F370A1F-4682-4372-9FDC-75887C54F3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F370A1F-4682-4372-9FDC-75887C54F3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F370A1F-4682-4372-9FDC-75887C54F3D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B7C7DF79-559B-4B06-95FD-CA37B8063002} = {052E67BF-7E36-47A2-8932-A6EDAE6F63A7}
+		{12CA792A-98AD-4A61-A7AA-58B0E5902567} = {052E67BF-7E36-47A2-8932-A6EDAE6F63A7}
+		{B6555048-DF8D-4FC9-A106-6ABE663E7556} = {052E67BF-7E36-47A2-8932-A6EDAE6F63A7}
+		{E3D7BC0A-994D-40BA-A819-803C4E9916F3} = {052E67BF-7E36-47A2-8932-A6EDAE6F63A7}
+		{8F370A1F-4682-4372-9FDC-75887C54F3D7} = {052E67BF-7E36-47A2-8932-A6EDAE6F63A7}
 	EndGlobalSection
 EndGlobal

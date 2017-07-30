@@ -1,0 +1,1 @@
+C:\Git\Examples\DesignPatternsNet\Single_Responsibility_Principle\bin\Debug\Single_Responsibility_Principle.exe.config

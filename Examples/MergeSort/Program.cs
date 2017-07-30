@@ -67,9 +67,7 @@ namespace MergeSort{
     }
                     
     class Program
-    {
-       int[] a = new int[] {8,5,7,4,9,3,2,1};
-       
+    {            
         static void Main(string[] args)
         {
             var merge = new MergeSort(new int[] {4, 8, 5, 7, 4, 9, 3, 2, 1 ,10,22,78,17,201, 78,2,10,24,27});

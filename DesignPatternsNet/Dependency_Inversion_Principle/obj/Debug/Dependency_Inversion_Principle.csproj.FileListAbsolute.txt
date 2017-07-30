@@ -1,0 +1,6 @@
+C:\Git\Examples\DesignPatternsNet\Dependency_Inversion_Principle\bin\Debug\Dependency_Inversion_Principle.exe.config
+C:\Git\Examples\DesignPatternsNet\Dependency_Inversion_Principle\bin\Debug\Dependency_Inversion_Principle.exe
+C:\Git\Examples\DesignPatternsNet\Dependency_Inversion_Principle\bin\Debug\Dependency_Inversion_Principle.pdb
+C:\Git\Examples\DesignPatternsNet\Dependency_Inversion_Principle\obj\Debug\Dependency_Inversion_Principle.csprojResolveAssemblyReference.cache
+C:\Git\Examples\DesignPatternsNet\Dependency_Inversion_Principle\obj\Debug\Dependency_Inversion_Principle.exe
+C:\Git\Examples\DesignPatternsNet\Dependency_Inversion_Principle\obj\Debug\Dependency_Inversion_Principle.pdb
