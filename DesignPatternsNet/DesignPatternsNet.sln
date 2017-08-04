@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples1", "SingletonExamples1\SingletonExamples1.csproj", "{72A0C8AD-9865-4D15-952F-ACD03D7F245A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples_usual", "SingletonExamples1\SingletonExamples_usual.csproj", "{72A0C8AD-9865-4D15-952F-ACD03D7F245A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples2", "SingletonExamples2\SingletonExamples2.csproj", "{93855EB6-0879-47E7-9B6F-513D69D4BAC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples_lock", "SingletonExamples2\SingletonExamples_lock.csproj", "{93855EB6-0879-47E7-9B6F-513D69D4BAC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples3", "SingletonExamples3\SingletonExamples3.csproj", "{FE569917-F808-4D1D-A135-4140D2969A78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples_static_ctor", "SingletonExamples3\SingletonExamples_static_ctor.csproj", "{FE569917-F808-4D1D-A135-4140D2969A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples4", "SingletonExamples4\SingletonExamples4.csproj", "{EEAA1184-BFE9-4E9D-8A08-5C95D40FC1AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExamples_lazy", "SingletonExamples4\SingletonExamples_lazy.csproj", "{EEAA1184-BFE9-4E9D-8A08-5C95D40FC1AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator1", "Decorator1\Decorator1.csproj", "{4E6F5B01-8EFA-4BB0-97C6-872CB9CCF529}"
 EndProject
@@ -38,6 +38,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{BF5811A7-AAC3-41A3-B10D-544105DE52D7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{744D8576-1963-4F32-9B7B-83C695E96FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder1", "Builder1\Builder1.csproj", "{EDDC35E0-C385-4995-80A7-42E46F2F5B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_Real", "Builder_Real\Builder_Real.csproj", "{A23A9B7C-BEFF-4573-9DF5-B0E622A1E064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory method1", "Factory method1\Factory method1.csproj", "{BBC074AF-40C2-40E8-ADDC-25AF61003D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory method_real", "Factory method_real\Factory method_real.csproj", "{FBE21085-1753-4600-9037-99E0CFE060F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -113,6 +121,22 @@ Global
 		{744D8576-1963-4F32-9B7B-83C695E96FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{744D8576-1963-4F32-9B7B-83C695E96FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{744D8576-1963-4F32-9B7B-83C695E96FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDC35E0-C385-4995-80A7-42E46F2F5B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDC35E0-C385-4995-80A7-42E46F2F5B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDC35E0-C385-4995-80A7-42E46F2F5B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDC35E0-C385-4995-80A7-42E46F2F5B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23A9B7C-BEFF-4573-9DF5-B0E622A1E064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23A9B7C-BEFF-4573-9DF5-B0E622A1E064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23A9B7C-BEFF-4573-9DF5-B0E622A1E064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23A9B7C-BEFF-4573-9DF5-B0E622A1E064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC074AF-40C2-40E8-ADDC-25AF61003D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC074AF-40C2-40E8-ADDC-25AF61003D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC074AF-40C2-40E8-ADDC-25AF61003D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC074AF-40C2-40E8-ADDC-25AF61003D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE21085-1753-4600-9037-99E0CFE060F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE21085-1753-4600-9037-99E0CFE060F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE21085-1753-4600-9037-99E0CFE060F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE21085-1753-4600-9037-99E0CFE060F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

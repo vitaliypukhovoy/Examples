@@ -10,6 +10,10 @@ namespace SingletonExamples4
     {
         static void Main(string[] args)
         {
+            var singleton1 = Singleton.Instance;
+            var singleton2 = Singleton.Instance;
+
+            Console.WriteLine(singleton1 == singleton2);
         }
     }
 
