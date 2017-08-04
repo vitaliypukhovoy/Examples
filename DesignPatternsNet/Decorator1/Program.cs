@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Decorator1
 {
+
+    //Purpose: Attach additional responsibilities to an object dynamically. Decorators provide a flexible
+    //alternative to subclassing for extending functionality.
     class Client
     {
         static void Display(string s, IComponent c)

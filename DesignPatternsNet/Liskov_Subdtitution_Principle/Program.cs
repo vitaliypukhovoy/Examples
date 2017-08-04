@@ -52,8 +52,8 @@ namespace Liskov_Subdtitution_Principle
         public ActionResult  SearchForProduct(Criteria criteria)
         {
 
-            IList<Product> products =   searchProvider.Search<Product>(criteria)
-            return view(products)
+            IList<Product> products =   searchProvider.Search<Product>(criteria);
+            return view(products);
         }
             
     }
