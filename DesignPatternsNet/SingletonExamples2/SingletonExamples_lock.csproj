@@ -7,8 +7,8 @@
     <ProjectGuid>{93855EB6-0879-47E7-9B6F-513D69D4BAC6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SingletonExamples2</RootNamespace>
-    <AssemblyName>SingletonExamples2</AssemblyName>
+    <RootNamespace>SingletonExamples_lock</RootNamespace>
+    <AssemblyName>SingletonExamples_lock</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
