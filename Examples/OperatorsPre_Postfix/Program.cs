@@ -4,6 +4,8 @@ using System.Text;
 
 namespace OperatorsPre_Postfix
 {
+    class Program
+    {
         static void Main(string[] args)
         {
           //1.Can you use both the pre- and post-increment operators on the same variable as in ++x++? 

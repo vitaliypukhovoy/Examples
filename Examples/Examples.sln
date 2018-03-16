@@ -79,6 +79,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_ternal_null-coales
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsPre_Postfix", "OperatorsPre_Postfix\OperatorsPre_Postfix.csproj", "{09199AA6-D104-49C3-AB45-AF15B42788E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload_equals", "Overload_equals\Overload_equals.csproj", "{8EEBD2BF-09CD-48BA-90F7-F532EA2214DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload_Equals_operator", "Overload_Equals_operator\Overload_Equals_operator.csproj", "{8BE24109-8908-4729-922F-22E36113D672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload_greater", "Overload_greater\Overload_greater.csproj", "{059BB9D3-BDAE-4190-BBE8-06849ABCB023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload_multy_Div", "Overload_multy_Div\Overload_multy_Div.csproj", "{F4F7D182-8BE4-46F5-B72D-78EB2FB0AF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload_subtraction", "Overload_subtraction\Overload_subtraction.csproj", "{2BF49318-FB33-49C3-87DC-4C2A754181F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +247,26 @@ Global
 		{09199AA6-D104-49C3-AB45-AF15B42788E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09199AA6-D104-49C3-AB45-AF15B42788E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09199AA6-D104-49C3-AB45-AF15B42788E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEBD2BF-09CD-48BA-90F7-F532EA2214DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEBD2BF-09CD-48BA-90F7-F532EA2214DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEBD2BF-09CD-48BA-90F7-F532EA2214DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEBD2BF-09CD-48BA-90F7-F532EA2214DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE24109-8908-4729-922F-22E36113D672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE24109-8908-4729-922F-22E36113D672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE24109-8908-4729-922F-22E36113D672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE24109-8908-4729-922F-22E36113D672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059BB9D3-BDAE-4190-BBE8-06849ABCB023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059BB9D3-BDAE-4190-BBE8-06849ABCB023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059BB9D3-BDAE-4190-BBE8-06849ABCB023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059BB9D3-BDAE-4190-BBE8-06849ABCB023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F7D182-8BE4-46F5-B72D-78EB2FB0AF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F7D182-8BE4-46F5-B72D-78EB2FB0AF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F7D182-8BE4-46F5-B72D-78EB2FB0AF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F7D182-8BE4-46F5-B72D-78EB2FB0AF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF49318-FB33-49C3-87DC-4C2A754181F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF49318-FB33-49C3-87DC-4C2A754181F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF49318-FB33-49C3-87DC-4C2A754181F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF49318-FB33-49C3-87DC-4C2A754181F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

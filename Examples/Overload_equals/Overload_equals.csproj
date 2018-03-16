@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>85933658-d0e2-4c70-b7c2-69dd32937581</ProjectGuid>
+    <ProjectGuid>{8EEBD2BF-09CD-48BA-90F7-F532EA2214DF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Overload_equals</RootNamespace>

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>5afc6a76-b7d4-41be-b5eb-09f185be5898</ProjectGuid>
+    <ProjectGuid>{2BF49318-FB33-49C3-87DC-4C2A754181F5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Overload_subtraction</RootNamespace>
