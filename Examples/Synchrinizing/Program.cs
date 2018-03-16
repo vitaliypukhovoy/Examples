@@ -11,8 +11,6 @@ namespace Synchrinizing
     {
         static void Main(string[] args)
         {
-
-
             // int n = 0;
             ////object _lock = new object();   
             //var up = Task.Run(() => 
